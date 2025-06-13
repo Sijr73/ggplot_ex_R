@@ -1,20 +1,10 @@
 # PlantGrowth ggplot2 Exercise
 
-This \~30 minute exercise will guide you through exploratory data analysis and visualization of the **PlantGrowth** dataset using **ggplot2**.
-
 ---
 
 ## Dataset
 
 The `PlantGrowth` dataset (base R) contains:
-
-| Variable | Type    | Description                      |
-| -------- | ------- | -------------------------------- |
-| `weight` | numeric | Dry weight of each plant (grams) |
-| `group`  | factor  | Treatment group:                 |
-|          |         | • `ctrl`  = control fertilizer   |
-|          |         | • `trt1`  = treatment 1          |
-|          |         | • `trt2`  = treatment 2          |
 
 Load the data:
 
