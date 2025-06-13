@@ -18,7 +18,7 @@ glimpse(PlantGrowth)
 
 ## Tasks
 
-### 1. Summary Statistics (5 min)
+### 1. Summary of the data
 
 1. Compute, **by group**, the mean and standard deviation of `weight`.
 2. Report the sample size for each group (hint: `n()`).
